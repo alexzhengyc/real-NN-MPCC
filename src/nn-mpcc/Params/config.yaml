@@ -1,0 +1,18 @@
+n_sqp        : 1
+n_reset      : 5
+sqp_mixing   : 0.8
+run_time     : 500
+Ts           : 0.06
+v0           : 0.02
+D0           : 0.25
+x_shift      : 0.0
+y_shift      : 0.0 
+z_shift      : 0.0
+
+config_path: "/home/alexzheng/Documents/GitHub/NN-MPCC-real/src/nn-mpcc/Params/path.json"
+model_path:  "/home/alexzheng/Documents/GitHub/NN-MPCC-real/src/nn-mpcc/Params/model.json"
+cost_path:   "/home/alexzheng/Documents/GitHub/NN-MPCC-real/src/nn-mpcc/Params/cost.json"
+bounds_path: "/home/alexzheng/Documents/GitHub/NN-MPCC-real/src/nn-mpcc/Params/bound.json"
+normalization_path: "/home/alexzheng/Documents/GitHub/NN-MPCC-real/src/nn-mpcc/Params/normalization.json"
+
+track_path:  "Track/ellipse_4*8.json"

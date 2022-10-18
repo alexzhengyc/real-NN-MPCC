@@ -1,0 +1,12 @@
+<launch>
+
+  <node pkg="nn-mpcc" name="file_test" type="file_test" output="screen">
+
+    <rosparam file="$(find nn-mpcc)/Params/config.yaml" command="load" />
+    <rosparam file="$(find nn-mpcc)/Params/bounds.yaml" command="load" />
+    <rosparam file="$(find nn-mpcc)/Params/cost.yaml" command="load" />
+    <rosparam file="$(find nn-mpcc)/Params/normalization.yaml" command="load" />
+    <rosparam file="$(find nn-mpcc)/Params/model.yaml" command="load" />
+  </node>
+
+</launch> 

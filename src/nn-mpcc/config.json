@@ -1,0 +1,15 @@
+
+{
+  "n_sqp": 1,
+  "n_reset": 5,
+  "sqp_mixing": 0.8,
+  "n_real": 500,   
+  "Ts": 0.06,
+  "v0": 0.2,
+  
+  "model_path": "Params/model.json",
+  "cost_path": "Params/cost.json",
+  "bounds_path": "Params/bounds.json",
+  "track_path": "Track/ellipse_4*8.json",
+  "normalization_path": "Params/normalization.json"
+}

@@ -1,0 +1,8 @@
+<launch>
+
+  <node pkg="nn-mpcc" name="mpc" type="mpc" output="screen">
+      <rosparam file="$(find nn-mpcc)/Params/config.yaml" command="load" />
+
+  </node>
+
+</launch> 

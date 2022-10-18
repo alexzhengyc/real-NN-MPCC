@@ -1,0 +1,8 @@
+
+{
+  "model_path": "/home/alexzheng/Documents/GitHub/NN-MPCC-real/src/nn-mpcc/Params/model.json",
+  "cost_path": "/home/alexzheng/Documents/GitHub/NN-MPCC-real/src/nn-mpcc/Params/cost.json",
+  "bounds_path": "/home/alexzheng/Documents/GitHub/NN-MPCC-real/src/nn-mpcc/Params/bounds.json",
+  "track_path": "/home/alexzheng/Documents/GitHub/NN-MPCC-real/src/nn-mpcc/Track/ellipse_4*8.json",
+  "normalization_path": "/home/alexzheng/Documents/GitHub/NN-MPCC-real/src/nn-mpcc/Params/bounds.json"
+}
